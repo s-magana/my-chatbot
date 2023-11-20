@@ -1,7 +1,7 @@
 # My Chatbot
 Need a question answered quickly? Use a personalized ChatGPT-powered chatbot right at the access of your terminal.
 
-<img src="https://github.com/s-magana/my-chatbot/assets/113574110/522c733c-1c08-4c2b-82ef-cd4043a05206" width="500">
+https://github.com/s-magana/my-chatbot/assets/113574110/522c733c-1c08-4c2b-82ef-cd4043a05206
 
 ## How It's Made:
 
